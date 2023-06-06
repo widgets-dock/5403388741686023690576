@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852682315119",
+    "project_id": "fitcloudpro-smartwatch-s-7fbf8",
+    "storage_bucket": "fitcloudpro-smartwatch-s-7fbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852682315119:android:a4b2ef7eb1b75014d3849a",
+        "android_client_info": {
+          "package_name": "com.tukangnggedabrus.ftsmrtprowtchol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852682315119-hvcqe5bhcm75m4mtj4bqm4li7hlbur54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZ4dzYtP4WXx_99SmV26v_5LoWPs2Byc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852682315119-hvcqe5bhcm75m4mtj4bqm4li7hlbur54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
